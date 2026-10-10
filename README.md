@@ -40,11 +40,21 @@ Customers 1-* Loans
 
 ## Sample Scenarios Solved
 
-- A customer says their deposit isn't showing up - verify them by phone number, then check their recent transactions
-- Which customers have defaulted loans and need recovery follow-up?
-- Which branch is holding the most account balance?
-- Which customers have an active loan but no phone number on file?
-- Which payment or transaction type fails most often?
+- How many accounts are Active vs Inactive?
+- <img width="255" height="244" alt="image" src="https://github.com/user-attachments/assets/fc09fefc-342e-4095-b622-a011a6488c3b" />
+
+- How many loans are Active, Closed, and Defaulted?
+- <img width="271" height="254" alt="image" src="https://github.com/user-attachments/assets/49c355e2-2e35-4f4c-85c8-33e694757218" />
+
+- Which account type has the most accounts?
+- <img width="257" height="278" alt="image" src="https://github.com/user-attachments/assets/83321e19-98ad-4438-9f35-0a93eead23b4" />
+
+- Which transaction type occurs most frequently?
+- <img width="319" height="286" alt="image" src="https://github.com/user-attachments/assets/6ae200f6-a35d-433f-b7c6-54bf7ce5f6c5" />
+
+- What is the distribution of transaction status?
+- <img width="314" height="281" alt="image" src="https://github.com/user-attachments/assets/ad59757e-82e1-45bb-98aa-ac544081da11" />
+
 
 ## Tech Used
 
