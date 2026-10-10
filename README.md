@@ -29,12 +29,12 @@ Accounts 1-* Transactions
 Customers 1-* Loans
 ```
 ## 🛠️ Tools & Technologies
--SQL Server
--T-SQL
--SQL Server Management Studio (SSMS)
--Google Sheets
--Pivot Tables
--Data Visualization
+1.SQL Server
+2.T-SQL
+3.SQL Server Management Studio (SSMS)
+4.Google Sheets
+5.Pivot Tables
+6.Data Visualization
 
 ## How to Run
 
